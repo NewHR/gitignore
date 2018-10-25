@@ -1,2 +1,4 @@
-# gitignore
-A collection of useful .gitignore templates in New.HR developers team
+# A collection of .gitignore templates
+
+This is GitHub’s collection of .gitignore file templates.
+
